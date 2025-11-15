@@ -1,6 +1,6 @@
 Python ile Geliştirilmiş Basit Taş-Kağıt-Makas Uygulaması
 
-Bu repo, herkesin aşina olduğu Taş-Kağıt-Makas (Rock-Paper-Scissors) oyununun Python dili ile yazılmış basit bir implementasyonunu içerir. Bu proje, özellikle kodlamaya yeni başlayanlar için temel karar yapıları (if/else) ve rastgele sayı üretimi gibi konseptleri öğrenmek adına idealdir.
+Bu kod, herkesin aşina olduğu Taş-Kağıt-Makas (Rock-Paper-Scissors) oyununun Python dili ile yazılmış basit bir implementasyonunu içerir. Bu proje, özellikle kodlamaya yeni başlayanlar için temel karar yapıları (if/else) ve rastgele sayı üretimi gibi konseptleri öğrenmek adına idealdir.
 
 Temel Özellikler:
 
